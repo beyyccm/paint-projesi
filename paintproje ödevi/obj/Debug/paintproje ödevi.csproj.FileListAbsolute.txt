@@ -1,0 +1,20 @@
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\bin\Debug\paintproje ödevi.exe.config
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\bin\Debug\paintproje ödevi.exe
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\bin\Debug\paintproje ödevi.pdb
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.csproj.AssemblyReference.cache
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje_ödevi.Form1.resources
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje_ödevi.Properties.Resources.resources
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.csproj.GenerateResource.cache
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.exe
+C:\Users\Beyzanur Çimen\source\repos\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.pdb
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\bin\Debug\paintproje ödevi.exe.config
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\bin\Debug\paintproje ödevi.exe
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\bin\Debug\paintproje ödevi.pdb
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.csproj.AssemblyReference.cache
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje_ödevi.Form1.resources
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje_ödevi.Properties.Resources.resources
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.csproj.GenerateResource.cache
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.exe
+C:\Users\Beyzanur Çimen\OneDrive\Masaüstü\paintproje ödevi\paintproje ödevi\obj\Debug\paintproje ödevi.pdb
