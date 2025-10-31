@@ -106,4 +106,4 @@ cd proje-klasoru
 
 
 
-Hazırsan şimdi **screenshots ve repo URL'sini** ekle 😊
+
