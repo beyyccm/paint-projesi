@@ -1,4 +1,4 @@
-# 🎨 Çizim Uygulaması (Paint Clone)
+# 🎨 Çizim Uygulaması 
 
 Profesyonel ve kullanıcı dostu bir çizim/editör uygulaması. Kullanıcılar serbest çizim yapabilir, şekiller çizebilir, silgi kullanabilir, dosya açıp kaydedebilir ve renklendirme işlemleri gerçekleştirebilir.
 
